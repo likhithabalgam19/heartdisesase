@@ -9,11 +9,13 @@ A trained Machine Learning model is integrated with a Flask-based API backend an
 This project demonstrates the practical implementation of Machine Learning techniques in healthcare analytics and decision-support systems, helping in early risk identification and improving data-driven medical insights.
 
 #🎯 Problem Statement
+
 Heart disease is one of the leading causes of mortality worldwide. Early prediction can help healthcare professionals make informed decisions and improve patient outcomes.
 
 The objective of this project is to build a predictive machine learning system that analyzes patient health data and estimates the risk of heart disease.
 
 #🚀 Key Features
+
 Machine Learning-based heart disease prediction
 Data preprocessing and feature transformation
 Missing value handling using imputation
@@ -24,6 +26,7 @@ Interactive Streamlit dashboard
 Reusable and modular code structure
 
 #🧠 Machine Learning Workflow
+
 Data Collection and Analysis
 Data Cleaning and Preprocessing
 Feature Engineering
@@ -35,6 +38,7 @@ Model Serialization (.pkl files)
 Deployment and Prediction
 
 #🛠️ Technologies Used
+
 Machine Learning
 Python
 Scikit-learn
@@ -48,6 +52,7 @@ Git
 GitHub
 
 #📂 Project Structure
+
 HeartDiseaseFullStack/
 │
 ├── backend/
@@ -70,6 +75,7 @@ HeartDiseaseFullStack/
 └── README.md
 
 #📊 Input Features
+
 The model predicts heart disease risk using various patient health parameters such as:
 
 Age
@@ -101,6 +107,7 @@ cd frontend
 streamlit run streamlit_app.py
 
 #💡 Learning Outcomes
+
 Through this project, I gained hands-on experience in:
 
 Machine Learning Model Development
@@ -119,6 +126,7 @@ Cloud deployment
 Enhanced visualization dashboard
 
 #👩‍💻 Author
+
 LIKHITHA
 
 Aspiring AI & Machine Learning Engineer passionate about building intelligent systems and solving real-world problems using data-driven solutions.
