@@ -7,5 +7,3 @@ The project covers the complete Machine Learning lifecycle, including data colle
 A trained Machine Learning model is integrated with a Flask-based API backend and an interactive Streamlit web application to enable real-time heart disease risk predictions through a user-friendly interface.
 
 This project demonstrates the practical implementation of Machine Learning techniques in healthcare analytics and decision-support systems, helping in early risk identification and improving data-driven medical insights.
-
-🎯 Problem Statement
